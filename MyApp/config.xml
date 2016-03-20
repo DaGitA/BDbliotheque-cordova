@@ -24,4 +24,5 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <engine name="windows" spec="~4.3.1" />
+    <preference name="windows-target-version" value="10.0" />
 </widget>

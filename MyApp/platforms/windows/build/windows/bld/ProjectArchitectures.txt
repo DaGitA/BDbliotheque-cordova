@@ -1,1 +1,1 @@
-C:\Users\david\Documents\bdbliotheque_cordova\MyApp\platforms\windows\CordovaApp.Windows.jsproj;neutral
+C:\Users\david\Documents\BDbliotheque-cordova\MyApp\platforms\windows\CordovaApp.Windows10.jsproj;neutral
